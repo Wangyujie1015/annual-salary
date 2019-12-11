@@ -16,7 +16,7 @@ int main()
 	//	}
 	//	printf("\n");
 	//}
-2
+//2
 	//for (int i = 100; i <= 999; i++) {
 	//	int a = i / 100;
 	//	int b = i / 10 % 10;
@@ -26,7 +26,7 @@ int main()
 	//	}
 
 	//}
-3
+//3
 //{
 //	int Sn = 0;
 //	int sum = 0;
