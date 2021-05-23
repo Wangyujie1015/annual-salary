@@ -1,0 +1,3 @@
+﻿  test.c
+E:\VS\20210523\test.c(94): warning C4172: 返回局部变量或临时变量的地址: p
+  20210523.vcxproj -> E:\VS\20210523\Debug\20210523.exe
